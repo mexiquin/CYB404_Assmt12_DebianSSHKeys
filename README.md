@@ -3,3 +3,4 @@ This is a backup mirror for the generated Debian SSH Keys as a result of H.D. Mo
 
 For the sake of the assignment, all public keys were already removed from the archives, then converted to ZIP archives for easier use.
 
+You can download the archives via the *Releases* tab, or you can clone the raw folders using *git*
